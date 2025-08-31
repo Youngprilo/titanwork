@@ -1,5 +1,7 @@
 aturm has many moons
 Mimas
-Dione
+Tethy
 Rghead4
 Hyperia
+Phoebe
+Pan
